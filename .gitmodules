@@ -1,0 +1,3 @@
+[submodule "Schack"]
+	path = Schack
+	url = https://github.com/DennisNevback/Schack
